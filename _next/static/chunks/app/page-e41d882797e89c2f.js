@@ -71,7 +71,7 @@
                         }),
                         (0, n.jsx)("li", {
                           children: (0, n.jsxs)("a", {
-                            href: "https://x.com/",
+                            href: "https://x.com/blendr_erc20",
                             target: "_blank",
                             children: [
                               (0, n.jsxs)("span", {
@@ -910,7 +910,7 @@
                   className:
                     "text-center text-white py-4 md:px-16 px-12  rounded-full hover:opacity-75 shrkbutton",
                   children: (0, n.jsx)("a", {
-                    href: "https://t.me/",
+                    href: "https://t.me/blendr_erc20",
                     target: "_blank",
                     children: "Telegram",
                   }),
@@ -919,7 +919,7 @@
                   className:
                     "text-center text-white py-4 md:px-16 px-12 rounded-full hover:opacity-75 shrkbutton",
                   children: (0, n.jsxs)("a", {
-                    href: "https://x.com/",
+                    href: "https://x.com/blendr_erc20",
                     target: "_blank",
                     children: [
                       "X\xa0",
