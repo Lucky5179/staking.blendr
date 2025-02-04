@@ -33,18 +33,15 @@
               className: "container",
               children: [
                 (0, n.jsx)(s.default, {
-                  href: "https://www.blendr.network/",
+                  href: "https://www.MAI.network/",
                   children: (0, n.jsxs)("div", {
                     className: "logo",
                     children: [
                       (0, n.jsx)("img", {
-                        src: "/assets/img/logo-img.webp",
+                        src: "/assets/img/logo-img.png",
                         alt: "",
                       }),
-                      (0, n.jsx)("img", {
-                        src: "/assets/img/logo-text.svg",
-                        alt: "blendr.ai",
-                      }),
+                      
                     ],
                   }),
                 }),
@@ -59,63 +56,7 @@
                     (0, n.jsxs)("ul", {
                       className: "links",
                       children: [
-                        (0, n.jsx)("li", {
-                          children: (0, n.jsxs)("a", {
-                            href: "https://etherscan.io/token/0xBc2EC011566dB99ba2B3109E88B7A37CE0c03562#code",
-                            target: "_blank",
-                            children: [
-                              (0, n.jsx)("span", { children: "Contract" }),
-                              (0, n.jsx)("span", { "data-text": "Contract" }),
-                            ],
-                          }),
-                        }),
-                        (0, n.jsx)("li", {
-                          children: (0, n.jsxs)("a", {
-                            href: "https://x.com/blendr_erc20",
-                            target: "_blank",
-                            children: [
-                              (0, n.jsxs)("span", {
-                                children: [
-                                  "X ",
-                                  (0, n.jsx)("span", {
-                                    className: "op",
-                                    children: "/ Twitter",
-                                  }),
-                                ],
-                              }),
-                              (0, n.jsxs)("span", {
-                                children: [
-                                  "X ",
-                                  (0, n.jsx)("span", {
-                                    className: "op",
-                                    children: "/ Twitter",
-                                  }),
-                                ],
-                              }),
-                            ],
-                          }),
-                        }),
-                        (0, n.jsx)("li", {
-                          children: (0, n.jsxs)("a", {
-                            href: "https://blendr-network.gitbook.io/blendr-network-technical-plan-docs",
-                            target: "_blank",
-                            children: [
-                              (0, n.jsx)("span", { children: "Documentation" }),
-                              (0, n.jsx)("span", {
-                                "data-text": "Documentation",
-                              }),
-                            ],
-                          }),
-                        }),
-                        (0, n.jsx)("li", {
-                          children: (0, n.jsxs)(s.default, {
-                            href: "/",
-                            children: [
-                              (0, n.jsx)("span", { children: "Stake" }),
-                              (0, n.jsx)("span", { "data-text": "Stake" }),
-                            ],
-                          }),
-                        }),
+                        
                       ],
                     }),
                     (0, n.jsxs)("ul", {
@@ -126,8 +67,8 @@
                             className: "btn btn-blue js_modal",
                             onClick: a,
                             children: [
-                              (0, n.jsx)("span", { children: "$BLENDR" }),
-                              (0, n.jsx)("span", { "data-text": "$BLENDR" }),
+                              (0, n.jsx)("span", { children: "$MAI" }),
+                              (0, n.jsx)("span", { "data-text": "$MAI" }),
                             ],
                           }),
                         }),
@@ -169,13 +110,10 @@
                     className: "logo",
                     children: [
                       (0, n.jsx)("img", {
-                        src: "/assets/img/logo-img.webp",
+                        src: "/assets/img/logo-img.png",
                         alt: "",
                       }),
-                      (0, n.jsx)("img", {
-                        src: "/assets/img/logo-text.svg",
-                        alt: "blendr.ai",
-                      }),
+
                     ],
                   }),
                   (0, n.jsxs)("nav", {
@@ -185,16 +123,9 @@
                         children: [
                           (0, n.jsx)("li", {
                             children: (0, n.jsx)("a", {
-                              href: "https://etherscan.io/token/0xBc2EC011566dB99ba2B3109E88B7A37CE0c03562#code",
+                              href: "https://etherscan.io/token/0xcomingsoon#code",
                               target: "_blank",
                               children: "Contract",
-                            }),
-                          }),
-                          (0, n.jsx)("li", {
-                            children: (0, n.jsx)("a", {
-                              href: "https://blendr-network.gitbook.io/blendr-network-technical-plan-docs",
-                              target: "_blank",
-                              children: "Documentation",
                             }),
                           }),
                         ],
@@ -204,7 +135,7 @@
                           children: (0, n.jsx)("a", {
                             className: "js_modal",
                             href: "#buy",
-                            children: "$BLENDR",
+                            children: "$MAI",
                           }),
                         }),
                       }),
@@ -220,7 +151,7 @@
                       }),
                       (0, n.jsx)("div", {
                         children:
-                          "Copyright \xa9 2025 Blendr. All rights reserved.",
+                          "Copyright \xa9 2025 MAI. All rights reserved.",
                       }),
                     ],
                   }),
@@ -234,14 +165,14 @@
           className: "modal ".concat(t ? "open" : ""),
           id: "buy",
           children: [
-            (0, n.jsx)("h2", { className: "title", children: "$BLENDR" }),
+            (0, n.jsx)("h2", { className: "title", children: "$MAI" }),
             (0, n.jsxs)("ul", {
               className: "buy-btns",
               children: [
                 (0, n.jsx)("li", {
                   children: (0, n.jsxs)("a", {
                     className: "btn btn-grey",
-                    href: "https://app.uniswap.org/swap?outputCurrency=0xBc2EC011566dB99ba2B3109E88B7A37CE0c03562",
+                    href: "https://app.uniswap.org/swap?outputCurrency=0xcomingsoon",
                     target: "_blank",
                     children: [
                       (0, n.jsx)("span", { children: "Uniswap" }),
@@ -263,7 +194,7 @@
       var o = a(21040),
         c = a(48796),
         p = a(76039);
-      let u = "0xBc2EC011566dB99ba2B3109E88B7A37CE0c03562",
+      let u = "0xcomingsoon",
         y = "https://etherscan.io";
       var m = JSON.parse(
           '{"M":[{"type":"constructor","inputs":[],"stateMutability":"nonpayable"},{"type":"function","name":"UPGRADE_INTERFACE_VERSION","inputs":[],"outputs":[{"name":"","type":"string","internalType":"string"}],"stateMutability":"view"},{"type":"function","name":"calculateAPY","inputs":[{"name":"durationDays","type":"uint256","internalType":"uint256"}],"outputs":[{"name":"","type":"uint256","internalType":"uint256"}],"stateMutability":"view"},{"type":"function","name":"claimFixedStakeReward","inputs":[{"name":"stakeIndex","type":"uint256","internalType":"uint256"}],"outputs":[],"stateMutability":"nonpayable"},{"type":"function","name":"claimReward","inputs":[],"outputs":[],"stateMutability":"nonpayable"},{"type":"function","name":"createFixedStake","inputs":[{"name":"amount","type":"uint256","internalType":"uint256"},{"name":"durationDays","type":"uint256","internalType":"uint256"}],"outputs":[],"stateMutability":"nonpayable"},{"type":"function","name":"emergencyWithdraw","inputs":[{"name":"token","type":"address","internalType":"contract IERC20"},{"name":"to","type":"address","internalType":"address"},{"name":"amount","type":"uint256","internalType":"uint256"}],"outputs":[],"stateMutability":"nonpayable"},{"type":"function","name":"fixedStakes","inputs":[{"name":"","type":"address","internalType":"address"},{"name":"","type":"uint256","internalType":"uint256"}],"outputs":[{"name":"amount","type":"uint256","internalType":"uint256"},{"name":"startDate","type":"uint256","internalType":"uint256"},{"name":"endDate","type":"uint256","internalType":"uint256"},{"name":"duration","type":"uint256","internalType":"uint256"},{"name":"apy","type":"uint256","internalType":"uint256"},{"name":"reward","type":"uint256","internalType":"uint256"}],"stateMutability":"view"},{"type":"function","name":"flexibleApy","inputs":[],"outputs":[{"name":"","type":"uint256","internalType":"uint256"}],"stateMutability":"view"},{"type":"function","name":"flexibleStakes","inputs":[{"name":"","type":"address","internalType":"address"}],"outputs":[{"name":"totalStaked","type":"uint256","internalType":"uint256"},{"name":"totalRewards","type":"uint256","internalType":"uint256"},{"name":"lastUpdate","type":"uint256","internalType":"uint256"}],"stateMutability":"view"},{"type":"function","name":"getUserFixedStakes","inputs":[{"name":"user","type":"address","internalType":"address"}],"outputs":[{"name":"","type":"tuple[]","internalType":"struct StakingPlatform.FixedStake[]","components":[{"name":"amount","type":"uint256","internalType":"uint256"},{"name":"startDate","type":"uint256","internalType":"uint256"},{"name":"endDate","type":"uint256","internalType":"uint256"},{"name":"duration","type":"uint256","internalType":"uint256"},{"name":"apy","type":"uint256","internalType":"uint256"},{"name":"reward","type":"uint256","internalType":"uint256"}]}],"stateMutability":"view"},{"type":"function","name":"getUserFlexibleInfo","inputs":[{"name":"user","type":"address","internalType":"address"}],"outputs":[{"name":"","type":"tuple","internalType":"struct StakingPlatform.FlexibleStake","components":[{"name":"totalStaked","type":"uint256","internalType":"uint256"},{"name":"totalRewards","type":"uint256","internalType":"uint256"},{"name":"lastUpdate","type":"uint256","internalType":"uint256"}]}],"stateMutability":"view"},{"type":"function","name":"initialize","inputs":[{"name":"_stakingToken","type":"address","internalType":"address"}],"outputs":[],"stateMutability":"nonpayable"},{"type":"function","name":"isFixedStakingEnabled","inputs":[],"outputs":[{"name":"","type":"bool","internalType":"bool"}],"stateMutability":"view"},{"type":"function","name":"isFlexibleStakingEnabled","inputs":[],"outputs":[{"name":"","type":"bool","internalType":"bool"}],"stateMutability":"view"},{"type":"function","name":"maxFixedAPY","inputs":[],"outputs":[{"name":"","type":"uint256","internalType":"uint256"}],"stateMutability":"view"},{"type":"function","name":"maxFixedDurationDays","inputs":[],"outputs":[{"name":"","type":"uint256","internalType":"uint256"}],"stateMutability":"view"},{"type":"function","name":"minFixedAPY","inputs":[],"outputs":[{"name":"","type":"uint256","internalType":"uint256"}],"stateMutability":"view"},{"type":"function","name":"minFixedDurationDays","inputs":[],"outputs":[{"name":"","type":"uint256","internalType":"uint256"}],"stateMutability":"view"},{"type":"function","name":"owner","inputs":[],"outputs":[{"name":"","type":"address","internalType":"address"}],"stateMutability":"view"},{"type":"function","name":"penaltyRate","inputs":[],"outputs":[{"name":"","type":"uint256","internalType":"uint256"}],"stateMutability":"view"},{"type":"function","name":"proxiableUUID","inputs":[],"outputs":[{"name":"","type":"bytes32","internalType":"bytes32"}],"stateMutability":"view"},{"type":"function","name":"renounceOwnership","inputs":[],"outputs":[],"stateMutability":"nonpayable"},{"type":"function","name":"setAPY","inputs":[{"name":"newAPY","type":"uint256","internalType":"uint256"}],"outputs":[],"stateMutability":"nonpayable"},{"type":"function","name":"setFixedAPYRange","inputs":[{"name":"minAPY","type":"uint256","internalType":"uint256"},{"name":"maxAPY","type":"uint256","internalType":"uint256"}],"outputs":[],"stateMutability":"nonpayable"},{"type":"function","name":"setFixedDurationDays","inputs":[{"name":"minDays","type":"uint256","internalType":"uint256"},{"name":"maxDays","type":"uint256","internalType":"uint256"}],"outputs":[],"stateMutability":"nonpayable"},{"type":"function","name":"setFixedStakingStatus","inputs":[{"name":"enabled","type":"bool","internalType":"bool"}],"outputs":[],"stateMutability":"nonpayable"},{"type":"function","name":"setFlexibleStakingStatus","inputs":[{"name":"enabled","type":"bool","internalType":"bool"}],"outputs":[],"stateMutability":"nonpayable"},{"type":"function","name":"setPenaltyRate","inputs":[{"name":"rate","type":"uint256","internalType":"uint256"}],"outputs":[],"stateMutability":"nonpayable"},{"type":"function","name":"setStakingToken","inputs":[{"name":"_stakingToken","type":"address","internalType":"contract IERC20"}],"outputs":[],"stateMutability":"nonpayable"},{"type":"function","name":"stake","inputs":[{"name":"amount","type":"uint256","internalType":"uint256"}],"outputs":[],"stateMutability":"nonpayable"},{"type":"function","name":"stakingToken","inputs":[],"outputs":[{"name":"","type":"address","internalType":"contract IERC20"}],"stateMutability":"view"},{"type":"function","name":"transferOwnership","inputs":[{"name":"newOwner","type":"address","internalType":"address"}],"outputs":[],"stateMutability":"nonpayable"},{"type":"function","name":"unstake","inputs":[{"name":"amount","type":"uint256","internalType":"uint256"}],"outputs":[],"stateMutability":"nonpayable"},{"type":"function","name":"upgradeToAndCall","inputs":[{"name":"newImplementation","type":"address","internalType":"address"},{"name":"data","type":"bytes","internalType":"bytes"}],"outputs":[],"stateMutability":"payable"},{"type":"function","name":"withdrawFixedStake","inputs":[{"name":"stakeIndex","type":"uint256","internalType":"uint256"}],"outputs":[],"stateMutability":"nonpayable"},{"type":"event","name":"Initialized","inputs":[{"name":"version","type":"uint64","indexed":false,"internalType":"uint64"}],"anonymous":false},{"type":"event","name":"OwnershipTransferred","inputs":[{"name":"previousOwner","type":"address","indexed":true,"internalType":"address"},{"name":"newOwner","type":"address","indexed":true,"internalType":"address"}],"anonymous":false},{"type":"event","name":"RewardClaimed","inputs":[{"name":"user","type":"address","indexed":true,"internalType":"address"},{"name":"reward","type":"uint256","indexed":false,"internalType":"uint256"}],"anonymous":false},{"type":"event","name":"RewardClaimedFixedStake","inputs":[{"name":"user","type":"address","indexed":true,"internalType":"address"},{"name":"stakeId","type":"uint256","indexed":false,"internalType":"uint256"},{"name":"reward","type":"uint256","indexed":false,"internalType":"uint256"}],"anonymous":false},{"type":"event","name":"Staked","inputs":[{"name":"user","type":"address","indexed":true,"internalType":"address"},{"name":"amount","type":"uint256","indexed":false,"internalType":"uint256"}],"anonymous":false},{"type":"event","name":"StakedFixed","inputs":[{"name":"user","type":"address","indexed":true,"internalType":"address"},{"name":"stakeId","type":"uint256","indexed":false,"internalType":"uint256"},{"name":"amount","type":"uint256","indexed":false,"internalType":"uint256"},{"name":"duration","type":"uint256","indexed":false,"internalType":"uint256"}],"anonymous":false},{"type":"event","name":"Unstaked","inputs":[{"name":"user","type":"address","indexed":true,"internalType":"address"},{"name":"amount","type":"uint256","indexed":false,"internalType":"uint256"}],"anonymous":false},{"type":"event","name":"Upgraded","inputs":[{"name":"implementation","type":"address","indexed":true,"internalType":"address"}],"anonymous":false},{"type":"event","name":"WithdrawFixedStake","inputs":[{"name":"user","type":"address","indexed":true,"internalType":"address"},{"name":"stakeId","type":"uint256","indexed":false,"internalType":"uint256"},{"name":"amount","type":"uint256","indexed":false,"internalType":"uint256"},{"name":"penalty","type":"uint256","indexed":false,"internalType":"uint256"}],"anonymous":false},{"type":"error","name":"AddressEmptyCode","inputs":[{"name":"target","type":"address","internalType":"address"}]},{"type":"error","name":"AddressInsufficientBalance","inputs":[{"name":"account","type":"address","internalType":"address"}]},{"type":"error","name":"ERC1967InvalidImplementation","inputs":[{"name":"implementation","type":"address","internalType":"address"}]},{"type":"error","name":"ERC1967NonPayable","inputs":[]},{"type":"error","name":"FailedInnerCall","inputs":[]},{"type":"error","name":"InvalidInitialization","inputs":[]},{"type":"error","name":"NotInitializing","inputs":[]},{"type":"error","name":"OwnableInvalidOwner","inputs":[{"name":"owner","type":"address","internalType":"address"}]},{"type":"error","name":"OwnableUnauthorizedAccount","inputs":[{"name":"account","type":"address","internalType":"address"}]},{"type":"error","name":"ReentrancyGuardReentrantCall","inputs":[]},{"type":"error","name":"SafeERC20FailedOperation","inputs":[{"name":"token","type":"address","internalType":"address"}]},{"type":"error","name":"UUPSUnauthorizedCallContext","inputs":[]},{"type":"error","name":"UUPSUnsupportedProxiableUUID","inputs":[{"name":"slot","type":"bytes32","internalType":"bytes32"}]}]}'
@@ -328,7 +259,7 @@
         },
         T = async () => {
           let e = await N();
-          return new p.CH("0xBc2EC011566dB99ba2B3109E88B7A37CE0c03562", x.M, e);
+          return new p.CH("0xcomingsoon", x.M, e);
         };
       var A = a(99232);
       let S = (e) => parseFloat(A.dF(e)).toFixed(0),
@@ -670,7 +601,7 @@
                     }),
                     (0, n.jsx)("div", {
                       className: "font-bold text-white text-4xl",
-                      children: "Connect to Blendr",
+                      children: "Connect to MAI",
                     }),
                     (0, n.jsxs)("div", {
                       className: "flex flex-col gap-2 px-4 w-full",
@@ -825,7 +756,7 @@
                           " ",
                           (0, n.jsx)("span", {
                             className: "font-bold",
-                            children: "https://staking.blendr.network",
+                            children: "https://staking.MAI.network",
                           }),
                           " ",
                           "by typing the address into your browser and confirming the validity of the SSL certificate",
@@ -910,7 +841,7 @@
                   className:
                     "text-center text-white py-4 md:px-16 px-12  rounded-full hover:opacity-75 shrkbutton",
                   children: (0, n.jsx)("a", {
-                    href: "https://t.me/blendr_erc20",
+                    href: "https://t.me/mindai_erc20",
                     target: "_blank",
                     children: "Telegram",
                   }),
@@ -919,7 +850,7 @@
                   className:
                     "text-center text-white py-4 md:px-16 px-12 rounded-full hover:opacity-75 shrkbutton",
                   children: (0, n.jsxs)("a", {
-                    href: "https://x.com/blendr_erc20",
+                    href: "https://x.com/mindai_erc20",
                     target: "_blank",
                     children: [
                       "X\xa0",
@@ -959,7 +890,7 @@
                 children: [
                   (0, n.jsxs)("p", {
                     className: "uppercase text-sm",
-                    children: [a.amount, " BLENDR"],
+                    children: [a.amount, " MAI"],
                   }),
                   " ",
                   (0, n.jsxs)("p", {
@@ -1313,7 +1244,7 @@
                           }),
                           (0, n.jsx)("p", {
                             className: "text-white text-4xl",
-                            children: "".concat(s, " Blender"),
+                            children: "".concat(s, " MAI"),
                           }),
                         ],
                       }),
@@ -1522,7 +1453,7 @@
                           children: [
                             (0, n.jsx)("p", {
                               className: "text-white opacity-50",
-                              children: "Blendr APR",
+                              children: "MAI APR",
                             }),
                             (0, n.jsxs)("p", {
                               className: "text-white text-2xl",
@@ -1546,7 +1477,7 @@
                                 }),
                                 (0, n.jsx)("p", {
                                   className: "text-[#6CFFCA] text-sm pl-2",
-                                  children: "BLENDR",
+                                  children: "MAI",
                                 }),
                               ],
                             }),
@@ -1581,7 +1512,7 @@
                       children: [
                         (0, n.jsx)("p", {
                           className: "uppercase opacity-50 text-xl",
-                          children: "Stake BLENDR",
+                          children: "Stake MAI",
                         }),
                         (0, n.jsx)("div", {
                           className:
@@ -1645,11 +1576,11 @@
                               children: s ? "".concat(F(s)) : "Not connected",
                             }),
                             (0, n.jsxs)("p", {
-                              children: [c || "0", " BLENDR"],
+                              children: [c || "0", " MAI"],
                             }),
                             (0, n.jsxs)("p", {
                               className: "pb-8",
-                              children: [g, " BLENDR"],
+                              children: [g, " MAI"],
                             }),
                             (0, n.jsx)("p", { children: r }),
                             (0, n.jsxs)("p", {
@@ -1715,7 +1646,7 @@
                     className:
                       "text-3xl md:text-4xl lg:text-5xl mt-12 sm:mt-10 md:mt-8 lg:mt-3",
                     children:
-                      "history" === e ? "Reward History" : "Stake Your Blendr",
+                      "history" === e ? "Reward History" : "Stake Your MAI",
                   }),
                   " ",
                 ],
@@ -1730,8 +1661,8 @@
                   className: "text-sm md:text-xl lg:text-xl",
                   children:
                     "history" === e
-                      ? "Track your Blendr staking rewards"
-                      : "Stake blendr and receive blendr tokens as rewards",
+                      ? "Track your MAI staking rewards"
+                      : "Stake MAI and receive MAI tokens as rewards",
                 }),
               }),
               (0, n.jsx)(es.E.div, {
@@ -1757,11 +1688,11 @@
           });
       let eg = (0, J.u_)({
         metadata: {
-          name: "Blendr",
+          name: "MAI",
           description:
             "Secure, scalable access to computing resources via blockchain for research and development.",
-          url: "https:/blendr.network/",
-          icons: ["https://staking.blendr.network/assets/img/logo-img.webp"],
+          url: "https:/MAI.network/",
+          icons: ["https://staking.MAI.network/assets/img/logo-img.webp"],
         },
       });
       function ej(e) {
